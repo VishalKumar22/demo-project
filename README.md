@@ -1,4 +1,4 @@
 # demo-project
 This is my first git repo 
 <br/>
-Author - Vishal Kumar
+Author - Vishal Kumar, Vikash Kumar
